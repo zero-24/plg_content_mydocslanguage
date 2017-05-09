@@ -24,7 +24,7 @@ class PlgContentMyDocsLanguage extends JPlugin
 	private $baseTag = 'href="https://docs.joomla.org';
 
 	/**
-	 * The string that be added after the main page URL.
+	 * The string that be added after the base tag.
 	 *
 	 * @var    string
 	 * @since  1.0
