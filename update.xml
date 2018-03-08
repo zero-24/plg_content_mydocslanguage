@@ -12,6 +12,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/zero-24/plg_content_mydocslanguage/releases/download/1.0.1/plg_content_mydocslanguage.zip</downloadurl>
 		</downloads>
+		<sha512>050a56c93c16a9c523d056d5ebe8a9fc0139a3bc9a470c2a5d5f316c456d01e5f27ee4107be00902478f53f00439fd8da18b9ea19b3ac9a3193e2bd3f0742a89</sha512>
 		<tags>
 			<tag>stable</tag>
 		</tags>
