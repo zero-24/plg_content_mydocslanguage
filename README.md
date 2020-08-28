@@ -28,7 +28,7 @@ You have found an Issue, you have done a translation or have a question / sugges
 
 ## Joomla! Extensions Directory (JED)
 
-This plugin can also been found in the Joomla! Extensions Directory: [CustomCSS by zero24](https://extensions.joomla.org/extension/mydocslanguage/)
+This plugin can also been found in the Joomla! Extensions Directory: [MyDocsLanguage by zero24](https://extensions.joomla.org/extension/mydocslanguage/)
 
 ## Release steps
 
