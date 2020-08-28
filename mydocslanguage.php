@@ -2,18 +2,20 @@
 /**
  * MyDocsLanguage Plugin
  *
- * @copyright  Copyright (C) 2020 Tobias Zulauf All rights reserved.
+ * @copyright  Copyright (C) 2017 Tobias Zulauf All rights reserved.
  * @license    http://www.gnu.org/licenses/gpl-2.0.txt GNU General Public License Version 2 or Later
  */
 
 defined('_JEXEC') or die;
+
+use Joomla\CMS\Plugin\CMSPlugin;
 
 /**
  * Plugin adding Special:MyLanguage to joomla docs page links.
  *
  * @since  1.0
  */
-class PlgContentMyDocsLanguage extends JPlugin
+class PlgContentMyDocsLanguage extends CMSPlugin
 {
 	/**
 	 * The snipped what should be extended
@@ -56,7 +58,7 @@ class PlgContentMyDocsLanguage extends JPlugin
 
 		// Replace the old value with the new
 		$article->fulltext  = str_replace($this->baseTag, $newlink, $article->fulltext);
-		$article->introtext = str_replace($this->baseTag, $newlink, $article->introtext);	
+		$article->introtext = str_replace($this->baseTag, $newlink, $article->introtext);
 
 		$dublicatelink = $this->tagToBeAdded . $this->tagToBeAdded;
 
