@@ -21,7 +21,7 @@ class PlgContentMyDocsLanguageScript extends JInstallerScript
 	public function __construct()
 	{
 		// Define the minumum versions to be supported.
-		$this->minimumJoomla = '3.7';
-		$this->minimumPhp    = '7.0';
+		$this->minimumJoomla = '3.9';
+		$this->minimumPhp    = '7.2.5';
 	}
 }
