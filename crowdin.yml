@@ -2,9 +2,7 @@
 "api_token_env": "CROWDIN_ZERO24_PERSONAL_TOKEN"
 "base_path": "language/"
 "base_url": "https://joomla.crowdin.com"
-
 "preserve_hierarchy": true
-
 "files": [
   {
     "source": "/en-GB/en-GB.plg_content_mydocslanguage.sys.ini",
