@@ -16,6 +16,16 @@ Thanks for your support!
 
 This plugin runs onContentBeforeSave and makes sure that all links to docs.joomla.org contain the Special:MyLanguage tag for translation.
 
+## Configuration
+
+### Initial setup the plugin
+
+- [Download the latest version of the plugin](https://github.com/zero-24/plg_content_mydocslanguage/releases/latest)
+- Install the plugin using `Upload & Install`
+- Enable the plugin `Content - MyDocsLanguage` from the plugin manager
+
+Now the inital setup is completed.
+
 ### Update Server
 
 Please note that my update server only supports the latest version running the latest version of Joomla and atleast PHP 7.0.
