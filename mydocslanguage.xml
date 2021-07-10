@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="3.9" type="plugin" group="content" method="upgrade">
 	<name>plg_content_mydocslanguage</name>
-	<creationDate>28.08.2020</creationDate>
+	<creationDate>2021-07-10</creationDate>
 	<author>Tobias Zulauf</author>
 	<copyright>(C) 2020 Tobias Zulauf All rights reserved.</copyright>
 	<authorUrl>https://www.jah-tz.de</authorUrl>
