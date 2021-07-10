@@ -12,7 +12,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/zero-24/plg_content_mydocslanguage/releases/download/1.0.3/plg_content_mydocslanguage.zip</downloadurl>
 		</downloads>
-		<sha512>eae1f4e79dd1f917d029bea4a011af7b964c647406be8ef150538b13bfdddcd616425082210edaf5e1144962d4e6302dcbfdbcb0a924350cf224d54088789cae</sha512>
+		<sha512>dee08aff22d601fcbfaa8b96fafc4ef81db227c4e8355af92cf5d8ee6bd6a50139e3628d6a4d4d4d8e652cf8e09bb662e125245cd25b2464e5fe35e53df45d03</sha512>
 		<tags>
 			<tag>stable</tag>
 		</tags>
@@ -33,7 +33,7 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/zero-24/plg_content_mydocslanguage/releases/download/1.0.3/plg_content_mydocslanguage.zip</downloadurl>
 		</downloads>
-		<sha512>eae1f4e79dd1f917d029bea4a011af7b964c647406be8ef150538b13bfdddcd616425082210edaf5e1144962d4e6302dcbfdbcb0a924350cf224d54088789cae</sha512>
+		<sha512>dee08aff22d601fcbfaa8b96fafc4ef81db227c4e8355af92cf5d8ee6bd6a50139e3628d6a4d4d4d8e652cf8e09bb662e125245cd25b2464e5fe35e53df45d03</sha512>
 		<tags>
 			<tag>stable</tag>
 		</tags>
